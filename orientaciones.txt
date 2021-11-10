@@ -1,0 +1,24 @@
+**************************************************************
+ORIENTACIONES GENERALES PARA EL DESARROLLO DE LA ACTIVIDAD
+**************************************************************
+
+Cada uno de los miembros trabajará sobre la construcción de varios archivos .py
+Cada archivo .py debe dar cuenta de uno de los principios solid.
+Se deben crear en total 5 archivos, uno por cada principio, se proponen los siguientes nombres:
+
+s1.py
+s2.py
+s3.py 
+s4.py
+s5.py
+
+Los archivos corresponden a cada uno de los principios, así:
+
+s1.py --> Single Responsability Principle
+s2.py --> Open / Closed Principle
+s3.py --> Liskov Substitution Principle
+s4.py --> Interface Segregation Principle
+s5.py --> Dependency Inversion Principle
+
+En cada archivo .py se coloca toda la explicación como comentarios al comienzo.
+Luego se escribe la clase correspondiente que da cuenta del principio
